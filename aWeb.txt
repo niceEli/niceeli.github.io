@@ -1,6 +1,6 @@
-g.aw
+g.co
 google.com
-b.aw
+b.co
 bing.com
-cmg.aw
+cmg.co
 coolmathgames.com
